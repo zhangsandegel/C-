@@ -1,2 +1,3 @@
-# C-
-practice , record and collect
+# C++
+
+practice , record and collecting   
